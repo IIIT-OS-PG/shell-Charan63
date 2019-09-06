@@ -10,8 +10,6 @@
 #include<deque>
 using namespace std;
 
-static struct termios old, current;
-
 bool issubstring(char cwd[1024],char path[1024])
 {
    int m = strlen(cwd);

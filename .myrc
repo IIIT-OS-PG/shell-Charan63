@@ -1,0 +1,13 @@
+PATH = /usr/lib/jvm/java-1.8.0-openjdk-amd64/bin:/usr/local/spark/bin:/home/charan/bin:/home/charan/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/charan/hadoop-2.9.2/bin
+
+PS1 = $ #
+
+alias ls = ls --color=auto
+alias la = ls  -a
+alias ll = ls  -l
+
+
+open mkv mp4 mp3 vlc
+open txt cpp c gedit
+open odt ods libreoffice
+
